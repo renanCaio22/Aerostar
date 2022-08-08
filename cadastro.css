@@ -1,0 +1,74 @@
+.dados{
+
+    text-align: center;
+    color:black;
+    background-color: yellow;
+    font-style: oblique;
+    position: absolute;
+    padding: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    outline: none;
+   
+    
+}
+
+.ivao{
+
+/*editar ainda*/
+width: 65px;
+
+}
+
+input{
+    outline: none;
+    border: none;
+}
+
+select{
+    outline: none;
+    border: none;
+}
+body{
+    background-color: black;
+    background-image: url(fundopreto.jpg);
+    
+   
+}
+.titulo{
+    font-size:20pt;
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    background-color: #FFD700;
+   
+}
+
+button{
+    background-color: green;
+    color: black;
+    border-radius: 10px;
+    font-style: oblique;
+    padding: 4px;
+    outline: none;
+    
+
+}    
+button:hover{
+    background-color: red;
+    
+}
+footer{
+    
+    color:black;
+    text-align: center;
+    font-style: oblique;
+    border: 15px;
+    font-size: 12px;
+    
+    
+    
+    
+}
