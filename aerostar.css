@@ -1,47 +1,54 @@
-body{
-    background-image: url(fundopreto.jpg);
+body {
+  background-image: url(fundopreto.jpg);
 }
 
-.todo-conteudo{
-    text-align: center;
-    color: black;
-    font-style: oblique;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: yellow;
-    position: absolute;
-    padding: 15px;
-    border-radius: 15px;
-} 
-footer{
-    color: black;
-    text-align: center;
-    
+.todo-conteudo {
+  text-align: center;
+  color: black;
+  font-style: oblique;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: yellow;
+  position: absolute;
+  padding: 15px;
+  border-radius: 15px;
 }
-h1{
-    font-size:20pt;
-    text-align: center;
-    color: black;
-    font-style: oblique;
-    background-color: #FFD700;
-    
+
+
+footer {
+  color: black;
+  text-align: center;
 }
-input{
-    border: none;
-    outline: none;
-    font-size: 15px;
+.link_cadastro {
+  text-decoration: none;
+  color: red;
 }
-button{
-    background-color: green;
-    color: black;
-    border-radius: 10px;
-    font-style: oblique;
-    padding: 4px;
-    outline: none;
-    
+h1 {
+  font-size: 20pt;
+  text-align: center;
+  color: black;
+  font-style: oblique;
+  background-color: #ffd700;
 }
- 
-button:hover{
-    background-color: red;
+input {
+  border: none;
+  outline: none;
+  font-size: 15px;
+}
+button {
+  background-color: green;
+  color: black;
+  border-radius: 10px;
+  font-style: oblique;
+  padding: 4px;
+  outline: none;
+}
+
+button:hover {
+  background-color: red;
+}
+
+.linkcadastro {
+  text-decoration: none;
 }
